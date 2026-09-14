@@ -1,6 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+#did not keep all code used for this project, only screenshotted it and pasted in the pdf,will do in the future.
+
 data = {
     "weight": [4.17, 5.58, 5.18, 6.11, 4.50, 4.61,
                5.17, 4.53, 5.33, 5.14, 4.81, 4.17,
